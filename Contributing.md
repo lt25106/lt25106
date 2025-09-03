@@ -19,7 +19,7 @@
 ## 3. CSS (`c.css`)
 
 - **Selectors**: Prefer element selectors over class selectors like `.stop-item`.
-- **Specificity**: Keep it low — avoid inline styles and unnecessary nesting.
+- **Specificity**: Keep it low, avoiding inline styles and unnecessary nesting.
 - **Properties order**:
   1. Positioning (e.g. `position`, `top`, `left`)
   2. Box model (`margin`, `padding`, `border`, `width`, `height`)
