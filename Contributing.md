@@ -65,5 +65,5 @@
 | Layer     | Indentation | Naming           | Semicolons | Key Practices                      |
 |-----------|-------------|------------------|------------|------------------------------------|
 | **HTML**  | 2 spaces    | semantic IDs/classes | n/a        | Semantic, accessible structure     |
-| **CSS**   | 2 spaces    | n/a | n/a        | Low specificity, logical ordering  |
-| **JS**    | 2 spaces    | n/a |  No       | No semicolons, clear modular code  |
+| **CSS**   | 2 spaces    | same name as HTML/JS | n/a        | Low specificity, logical ordering  |
+| **JS**    | 2 spaces    | same name as HTML/CSS |  No       | No semicolons, clear modular code  |
