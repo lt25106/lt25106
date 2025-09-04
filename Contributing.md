@@ -36,6 +36,7 @@
 ---
 
 ## 4. JavaScript (`j.js`)
+- Use == instead of === unless neccesary
 - Cache DOM elements
 - **No semicolons**: Rely on JavaScript's automatic semicolon insertion (ASI). Lines must not begin with `(`, `[`, `+`, `-`, etc., to avoid ASI pitfalls.
 - **Arrow functions**: Allowed where concise:
