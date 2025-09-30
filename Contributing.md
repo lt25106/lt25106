@@ -35,7 +35,7 @@
 
 ---
 
-## 4. JavaScript (`j.js`)
+## 4. JavaScript/Typescript (`j.js`/`.ts`)
 - Use == instead of === unless neccesary
 - Cache DOM elements
 - **No semicolons**: Rely on JavaScript's automatic semicolon insertion (ASI). Lines must not begin with `(`, `[`, `+`, `-`, etc., to avoid ASI pitfalls.
@@ -51,6 +51,7 @@
 - **Commenting**:
   - Single-line comments `//` for quick notes.
   - Multi-line for complex logic only.
+- Functions should either have side effects, or return a value.
 
 ---
 
