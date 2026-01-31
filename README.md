@@ -7,4 +7,4 @@ https://github.com/lt25106/api
 # Games
 https://github.com/lt25106/bushopperv2
 
-<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=lt25106&langs_count=99&theme=dark&layout=pie&cache_seconds=0" style="width: 100vw">
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=lt25106&langs_count=67&theme=dark&layout=pie&cache_seconds=0" style="width: 100vw">
