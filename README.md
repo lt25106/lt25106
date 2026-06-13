@@ -1,5 +1,6 @@
 # Contributions
 https://github.com/DefinitelyTyped/DefinitelyTyped/pull/73812
+https://github.com/Typsium/alchemist/pull/31
 # Language comparisons
 https://github.com/lt25106/random
 
