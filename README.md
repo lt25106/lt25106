@@ -1,18 +1,16 @@
+<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=lt25106&langs_count=68&theme=dark&layout=pie&cache_seconds=0" style="width: 100vw">
+
 # Contributions
 https://github.com/DefinitelyTyped/DefinitelyTyped/pull/73812
 
 https://github.com/Typsium/alchemist/pull/31
+
+https://github.com/readest/readest/pull/7662
+
 # Language comparisons
 https://github.com/lt25106/random
 
 https://github.com/lt25106/api
-# Use~~ful~~less stuff
-https://github.com/lt25106/short
-# Waste my Vercel quota!
-https://github.com/lt25106/express
 
-Yes you can go and ```curl``` it
 # Games
 https://github.com/lt25106/bushopperv2
-
-<img src="https://readme-stats-fast.vercel.app/api/top-langs?username=lt25106&langs_count=68&theme=dark&layout=pie&cache_seconds=0" style="width: 100vw">
